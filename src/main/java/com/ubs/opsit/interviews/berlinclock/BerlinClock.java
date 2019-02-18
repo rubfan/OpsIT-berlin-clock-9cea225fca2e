@@ -1,6 +1,5 @@
 package com.ubs.opsit.interviews.berlinclock;
 
-import com.ubs.opsit.interviews.Lamp;
 import com.ubs.opsit.interviews.TimeConverter;
 
 import java.time.LocalTime;
